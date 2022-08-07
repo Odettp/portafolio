@@ -1,0 +1,84 @@
+body {
+  background-color: black;
+  color: white;
+  margin: 0;
+}
+header h1 {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+  font-size: 50px;
+}
+section.header-bg {
+  text-align: center;
+}
+section.header-bg img {
+  width: 1280px;
+  height: 727px;
+}
+section.description {
+  text-align: center;
+  height: 348px;
+}
+section.description .text-description {
+  width: 475px;
+  height: 197px;
+  vertical-align: middle;
+  display: inline-block;
+}
+section.description .text-description p {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  margin-right: 106px;
+}
+section.description img {
+  display: inline-block;
+  width: 399px;
+  height: 237px;
+  vertical-align: middle;
+}
+section.features {
+  text-align: center;
+  background-color: #1e1a13;
+  height: 348px;
+}
+section.features h3 {
+  font-size: 40px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+  margin-bottom: 50px;
+  margin-top: 25px;
+}
+section.features ul li {
+  display: inline-block;
+  margin: 0 150px 0 150px;
+}
+section.features ul li i {
+  display: block;
+  font-size: 42px;
+}
+section.features ul li p {
+  display: block;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+}
+section.photos img {
+  display: inline-block;
+  width: 316px;
+  height: 202px;
+  vertical-align: middle;
+  margin: 0 5px 0 5px;
+}
+section.photos {
+  text-align: center;
+}
+section {
+  padding: 40px 0px 40px 0px;
+}
+footer p {
+  text-align: center;
+}
+footer {
+  background-color: #1e1a13;
+  padding: 39px 0;
+}

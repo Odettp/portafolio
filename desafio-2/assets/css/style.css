@@ -1,0 +1,32 @@
+body {
+  margin: auto;
+  padding: 0;
+}
+.product-img {
+  width: 250px;
+  height: 250px;
+}
+.header {
+  height: 10em;
+  background-size: contain;
+  background-position: right;
+  background-repeat: no-repeat;
+  background: url(../imgs/fondo.jpg);
+  padding-top: 40px;
+}
+.header .title {
+  margin: 0;
+  text-align: center;
+}
+.header .subtitle {
+  text-align: center;
+}
+.products { 
+padding-left: 200px;
+padding-right: 200px;
+}
+.footer {
+  background-color: beige;
+  text-align: center;
+  padding: 5px;
+}

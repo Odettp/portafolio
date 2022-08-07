@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  background: #acd6ef;
+}
+
+.bg {
+  text-align: center;
+  padding: 10px;
+  height: 100vh;
+  background-size: cover;
+  box-sizing: border-box;
+  filter: blur(8px);
+}
+
+.bg-text {
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+  font-family: 'Rubik Mono One', sans-serif;
+}
+
+section.description {
+  margin-top: 100px;
+}
+
+section #desafios {
+  margin-top: 100px;
+}
+
+.card {
+  margin-bottom: 5px;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 300px;
+}
+
+footer {
+  text-align: center;
+  background-color: white;
+  padding: 10px 0;
+  color: black;
+  margin-top: 30px;
+}
+
+.home {
+  background-image: url('../img/programacion.jpeg');
+  margin-bottom: 20px;
+}
